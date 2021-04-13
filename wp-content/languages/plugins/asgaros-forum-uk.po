@@ -1,0 +1,364 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 10:23:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: admin/views/options.php:122
+msgid "Allow shortcodes in posts"
+msgstr "Дозволити шорткоди у повідомленнях"
+
+#: admin/views/options.php:251
+msgid "Allow guest postings"
+msgstr "Дозволити гостям створювати повідомлення"
+
+#: includes/forum-uploads.php:161
+msgid "You need to login to have access to uploads."
+msgstr "Вам потрібно увійти, щоб мати доступ до завантаження."
+
+#: includes/forum.php:1238 includes/forum.php:1260
+msgid "Guest"
+msgstr "Гість"
+
+#: includes/forum.php:1235 includes/forum.php:1254
+msgid "Deleted user"
+msgstr "Видалений користувач "
+
+#: includes/views/overview.php:19
+msgid "In this category are no forums yet!"
+msgstr "У цій категорії ще немає форумів!"
+
+#: admin/admin.php:55
+msgid "Notifications"
+msgstr "Оповіщення"
+
+#: includes/forum-notifications.php:56
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>Скасувати підписку</b> для цієї теми."
+
+#: includes/forum-notifications.php:59 includes/forum-notifications.php:108
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>Підписатися</b> на цю тему."
+
+#: includes/forum.php:861 includes/forum.php:952
+msgid "Subforums"
+msgstr "Підфоруми"
+
+#: admin/views/appearance.php:56
+msgid "Text color:"
+msgstr "Колір тексту:"
+
+#: admin/tables/admin-structure-table.php:107 admin/views/structure.php:65
+#: admin/views/structure.php:120 admin/views/structure.php:198
+msgid "Order:"
+msgstr "Порядок:"
+
+#: admin/views/structure.php:72 admin/views/structure.php:126
+#: admin/views/usergroups.php:50 admin/views/usergroups.php:82
+#: admin/views/ads.php:43
+msgid "Save"
+msgstr "Зберегти"
+
+#: includes/forum-content.php:73
+msgid "You are banned!"
+msgstr "Вас забанено!"
+
+#: admin/views/appearance.php:48
+msgid "Forum color:"
+msgstr "Колір форуму:"
+
+#: admin/views/structure.php:73 admin/views/structure.php:127
+#: admin/views/structure.php:140 admin/views/structure.php:154
+#: admin/views/usergroups.php:51 admin/views/usergroups.php:64
+#: admin/views/usergroups.php:83 admin/views/usergroups.php:96
+#: admin/views/ads.php:44 admin/views/ads.php:57 includes/forum-editor.php:270
+#: includes/forum-editor.php:275
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: admin/admin.php:35
+msgid "General"
+msgstr "Основні"
+
+#: admin/admin.php:71
+msgid "Uploads"
+msgstr "Завантаження"
+
+#: admin/admin.php:219 admin/views/appearance.php:8
+#: admin/views/appearance.php:19
+msgid "Appearance"
+msgstr "Зовнішній вигляд"
+
+#: admin/views/appearance.php:26
+msgid "Theme"
+msgstr "Тема"
+
+#: admin/admin.php:129 admin/views/options.php:594
+#: includes/forum-memberslist.php:132 includes/views/post-element.php:59
+#: includes/forum-permissions.php:108 includes/forum-permissions.php:596
+#: includes/forum-permissions.php:631
+msgid "Banned"
+msgstr "Забанити"
+
+#: admin/views/options.php:651
+msgid "Allowed filetypes:"
+msgstr "Дозволені типи файлів:"
+
+#: includes/forum-memberslist.php:224 includes/forum.php:851
+#: includes/views/post-element.php:49
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s запис"
+msgstr[1] "%s записи"
+msgstr[2] "%s записів"
+
+#: includes/forum.php:930
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s Перегляд"
+msgstr[1] "%s Перегляди"
+msgstr[2] "%s Переглядів"
+
+#: admin/views/options.php:644 admin/views/structure.php:58
+#: admin/views/structure.php:191
+msgid "Everyone"
+msgstr "Кожен"
+
+#: admin/views/options.php:645 admin/views/options.php:793
+#: admin/views/structure.php:59 admin/views/structure.php:193
+msgid "Logged in users only"
+msgstr "Тільки авторизовані користувачі"
+
+#: admin/views/options.php:646 admin/views/options.php:705
+#: admin/views/options.php:794 admin/views/structure.php:60
+#: admin/views/structure.php:195
+msgid "Moderators only"
+msgstr "Тільки модератори"
+
+#: admin/views/options.php:132
+msgid "Highlight administrator/moderator names"
+msgstr "Виділяти імена адміністраторів/модераторів"
+
+#: admin/views/options.php:182
+msgid "Show edit date"
+msgstr "Показувати дату редагування"
+
+#: includes/views/post-element.php:138
+msgid "Last edited on %s"
+msgstr "Останній раз редагувалось %s"
+
+#: includes/forum.php:1698
+msgid "Login"
+msgstr "Увійти"
+
+#: widgets/widget-recent-topics.php:162 widgets/widget-recent-posts.php:169
+msgid "Number of topics to show:"
+msgstr "Кількість тем для перегляду:"
+
+#: widgets/widget-recent-topics.php:157 widgets/widget-search.php:51
+#: widgets/widget-recent-posts.php:164
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/forum-activity.php:43 includes/forum-profile.php:194
+#: includes/forum-unread.php:243 includes/forum-approval.php:216
+#: includes/forum.php:1371 includes/forum.php:1384 includes/forum.php:1411
+#: includes/forum.php:1423 widgets/widget-recent-topics.php:118
+#: widgets/widget-recent-posts.php:124
+msgid "%s ago"
+msgstr "%s назад"
+
+#: widgets/widget-recent-posts.php:11
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "Відображає останні повідомлення в Asgaros Форумі."
+
+#: widgets/widget-recent-posts.php:12
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros Форум: Останні повідомлення"
+
+#: widgets/widget-recent-posts.php:156
+msgid "Recent forum posts"
+msgstr "Останні повідомлення на форумі"
+
+#: widgets/widget-recent-topics.php:107 widgets/widget-recent-posts.php:113
+msgid "by"
+msgstr " "
+
+#: includes/forum.php:1598 includes/forum.php:1621
+msgid "Are you sure you want to remove this?"
+msgstr "Ви впевнені, що хочете видалити це?"
+
+#: includes/forum-unread.php:185
+msgid "New posts"
+msgstr "Нові повідомлення"
+
+#: includes/forum-unread.php:191 includes/forum-unread.php:207
+msgid "Mark All Read"
+msgstr "Позначити всі як прочитані"
+
+#. Plugin Name of the plugin
+#: integrations/integration-mycred.php:20
+msgid "Asgaros Forum"
+msgstr "Asgaros Форум"
+
+#. Author of the plugin
+msgid "Thomas Belser"
+msgstr "Thomas Belser"
+
+#: includes/forum-statistics.php:27
+msgid "Views"
+msgstr "Перегляди"
+
+#: includes/forum-uploads.php:231
+msgid "Upload Files:"
+msgstr "Завантажити файли:"
+
+#: includes/forum-uploads.php:249
+msgid "Add another file ..."
+msgstr "Додати ще файл ..."
+
+#: includes/forum-editor.php:278
+msgid "Submit"
+msgstr "Відправити"
+
+#: includes/forum-editor.php:243
+msgid "Subject:"
+msgstr "Тема:"
+
+#: includes/forum-uploads.php:182 includes/forum-uploads.php:213
+msgid "Uploaded files:"
+msgstr "Завантажені файли:"
+
+#: includes/forum-editor.php:190 includes/forum-content.php:67
+#: includes/forum-content.php:79 includes/forum-content.php:85
+#: includes/forum-content.php:97 includes/forum-content.php:105
+#: includes/forum-content.php:113
+msgid "You are not allowed to do this."
+msgstr "Ви не можете цього зробити."
+
+#: includes/forum-content.php:120
+msgid "You must enter a subject."
+msgstr "Ви повинні ввести тему."
+
+#: includes/forum-content.php:131
+msgid "You must enter a message."
+msgstr "Ви повинні ввести повідомлення."
+
+#: includes/forum-editor.php:202 includes/views/post-element.php:96
+msgid "Quote from"
+msgstr "Цитувати"
+
+#: includes/forum-editor.php:222
+msgid "Post Reply:"
+msgstr "Відповісти:"
+
+#: includes/forum.php:1875
+msgid "Sorry, this post does not exist."
+msgstr "Вибачте, такого повідомлення не існує."
+
+#: admin/tables/admin-usergroups-table.php:78
+#: admin/tables/admin-ads-table.php:70 admin/views/structure.php:139
+#: admin/views/structure.php:153 admin/views/usergroups.php:63
+#: admin/views/usergroups.php:95 admin/views/ads.php:56
+#: includes/forum-uploads.php:205 includes/forum.php:1600
+#: includes/forum.php:1623
+msgid "Delete"
+msgstr "Видалити"
+
+#: includes/forum-pagination.php:109
+msgid "First"
+msgstr "Перший"
+
+#: includes/forum-pagination.php:29 includes/forum-pagination.php:130
+msgid "Last"
+msgstr "Остання"
+
+#: includes/forum.php:1579
+msgid "Close"
+msgstr "Закрити"
+
+#: includes/forum.php:1484 includes/forum.php:1561
+msgid "Sticky"
+msgstr "Прикріплена"
+
+#: includes/forum.php:1539
+msgid "Reply"
+msgstr "Відповісти"
+
+#: admin/tables/admin-usergroups-table.php:80
+#: admin/tables/admin-ads-table.php:72 includes/forum.php:1631
+msgid "Edit"
+msgstr "Змінити"
+
+#: includes/forum-editor.php:202 includes/views/post-element.php:96
+msgid "on %s"
+msgstr "від %s"
+
+#: includes/forum.php:1640
+msgid "Quote"
+msgstr "Цитату"
+
+#: includes/forum.php:1020 includes/forum.php:1548
+msgid "Move"
+msgstr "Перемістити"
+
+#: includes/forum-breadcrumbs.php:75 includes/forum.php:614
+msgid "Post Reply"
+msgstr "Відповісти"
+
+#: includes/views/overview.php:38
+msgid "There are no categories yet!"
+msgstr "Тут ще немає категорій!"
+
+#: includes/forum.php:1877
+msgid "Sorry, this forum does not exist."
+msgstr "Вибачте, такого форуму не існує."
+
+#: includes/forum.php:981
+msgid "Sorry, but there are no posts."
+msgstr "Вибачте, але тут немає повідомлень."
+
+#: includes/forum.php:994
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "Перемістити \"<strong>%s</strong>\" до нового форуму:"
+
+#: includes/forum-editor.php:224 includes/forum-breadcrumbs.php:79
+#: includes/forum.php:612
+msgid "Edit Post"
+msgstr "Редагувати запис"
+
+#: admin/views/structure.php:207 admin/views/usergroups.php:125
+msgid "Edit Category"
+msgstr "Редагувати Категорію"
+
+#: includes/forum-ads.php:22
+msgid "Category"
+msgstr "Категорія"
+
+#: admin/views/options.php:77
+msgid "Replies to show per page:"
+msgstr "Відповідей, що будуть відображені на сторінці."
+
+#: admin/views/structure.php:91
+msgid "Description:"
+msgstr "Опис:"
+
+#: admin/tables/admin-usergroups-table.php:87
+#: admin/tables/admin-ads-table.php:79
+#: admin/tables/admin-structure-table.php:105 admin/views/structure.php:51
+#: admin/views/structure.php:87 admin/views/usergroups.php:20
+#: admin/views/usergroups.php:76 admin/views/ads.php:19
+msgid "Name:"
+msgstr "Ім'я:"
+
+#: admin/admin.php:170 admin/admin.php:217 includes/forum-ads.php:23
+#: includes/forum.php:258 includes/forum.php:1663 includes/forum.php:2031
+msgid "Forum"
+msgstr "Форум"
